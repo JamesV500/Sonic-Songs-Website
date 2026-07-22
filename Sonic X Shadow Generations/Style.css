@@ -1,0 +1,51 @@
+/* SONIC GENERATIONS */
+
+#BodySonic{
+    background-color: rgb(255, 255, 255)
+}
+   
+.SongFontSONIC{
+    font-family: Impact;
+    color:rgb(0, 0, 0);
+    border-radius: 100px;
+    border-color: rgb(237, 241, 0);
+}
+
+#DivSonic{
+    background-color: rgb(237, 241, 0);
+    border-style: dotted;
+}
+
+/*--------------------------------------------------------------------------------------*/
+
+/* SHADOW GENERATIONS */
+
+#BodyShadow{
+    background-color: black
+}
+
+header{
+    background-color:rgb(87, 87, 87)
+}
+
+#ButtonShadow{
+    font-size: x-large; 
+    background-color: rgb(122, 13, 13); 
+    color: white; 
+    border-radius: 10px; 
+    border-color: rgb(66, 132, 141);
+
+}
+
+#DivShadow{
+    background-color: rgb(172, 172, 172)
+}
+
+.SongFontSHADOW{
+    font-family: Impact;
+    color:rgb(117, 24, 24)
+}
+
+
+/*--------------------------------------------------------------------------------------*/
+
