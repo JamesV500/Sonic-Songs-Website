@@ -1,5 +1,22 @@
 /* SONIC ADVENTURE 2 */
 
+.SA2FontColor{
+    font-family: Impact;
+    
+    border: 10px rgb(87, 0, 168);
+    border-style: double;
+    
+    border-radius: 15px;
+    background-color: rgb(202, 82, 226);
+}
 
-
+.SA2HeroesFontColor{
+    font-family: Impact;
+    
+    border: 10px rgb(82, 209, 226);
+    border-style: double;
+    
+    border-radius: 15px;
+    background-color:  rgb(0, 3, 168);
+}
 /*--------------------------------------------------------------------------------------*/
