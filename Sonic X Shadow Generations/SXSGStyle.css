@@ -2,14 +2,12 @@
 
 #BodySonic{
     background-color: rgb(255, 255, 255)
-}
-   
+} 
 .SongFontSONIC{
     font-family: sans-serif;
     color:rgb(0, 0, 0);
     border-radius: 100px;
 }
-
 #SongSelections_CSonic{
     border-top: blue;
     border-right: black;
@@ -21,9 +19,7 @@
     border-radius: 15px;
     
     background-color: rgb(237, 241, 0);
-    
 }
-
 #SongSelections_MSonic{
     border-top: rgb(255, 255, 255);
     border-right: rgb(238, 202, 0);
@@ -35,40 +31,27 @@
     border-radius: 15px;
     
     background-color: rgb(42, 145, 230);
-    
 }
-
 /*--------------------------------------------------------------------------------------*/
 
 /* SHADOW GENERATIONS */
-
 #BodyShadow{
     background-color: black
 }
-
-header{
-    background-color:rgb(87, 87, 87)
-}
-
 #ButtonShadow{
     font-size: x-large; 
     background-color: rgb(122, 13, 13); 
     color: white; 
     border-radius: 10px; 
     border-color: rgb(66, 132, 141);
-
 }
-
 .SongFontSHADOW{
     font-family: Impact;
     color: rgb(0, 0, 0)
 }
-
 #SongSelectionsShadow{
     background-color: rgb(255, 255, 255);
     border-style: dotted;
     border-color: rgb(184, 0, 0);
 }
-
 /*--------------------------------------------------------------------------------------*/
-
