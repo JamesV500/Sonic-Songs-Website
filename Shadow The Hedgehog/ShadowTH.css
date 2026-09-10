@@ -1,5 +1,11 @@
+table{
+    display: flex;
+    justify-content: center; /* Alinha horizontalmente */
+    align-items: center;     /* Alinha verticalmente */
+    margin: 0;
+}
 td{
-    background-color: rgb(61, 61, 61);
+    background-color: rgb(92, 84, 84);
 }
 a{
     color: rgb(182, 0, 0);
@@ -26,9 +32,30 @@ body{
 }
 .Shadow05Font{
     color: rgb(182, 0, 0);
-    border: 10px solid;
-    border-color: aqua;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: #000;
     font-family: impact;
-    font-size: larger;
-    
+    font-size: x-large;
+    text-align: center;
+}
+.Shadow05FontExtra{
+    color: rgba(182, 0, 0, 0);
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: #000;
+    font-family: impact;
+    font-size: x-large;
+    text-align: center;
+
+}
+.container-links{
+    display: flex;
+    justify-content: space-between; /* Empurra uma coluna para cada ponta */
+    max-width: 600px;              /* Limita a largura máxima da área */
+    margin: 0 auto;                /* Centraliza o container na tela */
+    padding: 20px;
+}
+.coluna-links {
+    display: flex;
+    flex-direction: column;        /* Alinha os links de cima para baixo */
+    gap: 8px;                      /* Espaçamento vertical entre os links */
 }
