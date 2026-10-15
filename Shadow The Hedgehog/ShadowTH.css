@@ -5,14 +5,14 @@ table{
     margin: 0;
 }
 td{
-    background-color: rgb(92, 84, 84);
+    background-color: rgb(86, 83, 83);
 }
 a{
     color: rgb(182, 0, 0);
     font-family: impact;
-    font-size: larger;
+    font-size: xx-large;
 }
-.BlockInvisible{
+#BlockInvisible{
     background-color: rgba(0, 0, 0, 0);
 }
 .Block{
